@@ -1,7 +1,7 @@
 var $ = require('jquery');
 var Person = require('./modules/Person');
 
-alert("doeds thiddds work");
+alert("ABC 321");
 
 var john = new Person("John Doe", "blue");
 john.greet();
